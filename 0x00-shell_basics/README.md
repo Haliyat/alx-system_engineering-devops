@@ -6,3 +6,4 @@ Change directory
 Move a fie from one folder to another
 Delete a file
 Delete a directory from the tmp directory
+Change working directory to the previous one
